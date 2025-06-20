@@ -31,9 +31,6 @@ Com o Docker instalado e configurado corretamente:
 sudo docker-compose up --build
 ```
 
-A aplicação estará disponível em:
-🌐 `http://localhost:3001`
-
 ---
 
 ## Documentação da API
